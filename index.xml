@@ -6,10 +6,19 @@
     <description>Recent content on Worldpotato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jan 2020 17:49:04 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 22:05:49 +0100</lastBuildDate>
     
         <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linuxes</title>
+      <link>/linux/</link>
+      <pubDate>Thu, 30 Jan 2020 22:05:49 +0100</pubDate>
+      
+      <guid>/linux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Universities</title>
@@ -23,9 +32,18 @@
     <item>
       <title>Abouts</title>
       <link>/about/</link>
-      <pubDate>Fri, 17 Jan 2020 14:31:50 +0100</pubDate>
+      <pubDate>Fri, 17 Jan 2020 15:47:11 +0100</pubDate>
       
       <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gpgkeys</title>
+      <link>/gpgkey/</link>
+      <pubDate>Fri, 17 Jan 2020 14:31:50 +0100</pubDate>
+      
+      <guid>/gpgkey/</guid>
       <description></description>
     </item>
     
