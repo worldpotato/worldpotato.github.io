@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Worldpotato</title>
+    <link>/tags/development/</link>
+    <description>Recent content in development on Worldpotato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2020 09:57:42 +0100</lastBuildDate>
+    
+        <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Heroku App</title>
+      <link>/development/firstherokuapp/</link>
+      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
+      
+      <guid>/development/firstherokuapp/</guid>
+      <description>Yesterday was a day full of procrastination. I should learned Machine Learning but instead I created a Heroku app. Actually it&amp;rsquo;s just a Hello World site, but I&amp;rsquo;s hones work.
+Since I want to learn python I use python as programming language and Django as framework. Mostly because Django is part of the &amp;ldquo;Heroku with python&amp;rdquo; tutorial. Actually the tutorial was no problem. The test page works great. But I don&amp;rsquo;t want to start my app from scratch and not with all the unknown things from the tutorial application and I want to host the source on Github</description>
+    </item>
+    
+  </channel>
+</rss>

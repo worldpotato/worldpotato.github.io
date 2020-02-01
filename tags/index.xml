@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Worldpotato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jan 2020 22:05:49 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2020 09:57:42 +0100</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>development</title>
+      <link>/tags/development/</link>
+      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
+      
+      <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>django</title>
+      <link>/tags/django/</link>
+      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
+      
+      <guid>/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>/tags/hello-world/</link>
+      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
+      
+      <guid>/tags/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heroku</title>
+      <link>/tags/heroku/</link>
+      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
+      
+      <guid>/tags/heroku/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/tags/python/</link>
+      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>arch</title>
