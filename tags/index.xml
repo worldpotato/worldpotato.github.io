@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Worldpotato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 09:57:42 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 13:55:49 +0100</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,45 @@
     <item>
       <title>development</title>
       <link>/tags/development/</link>
-      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
+      <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
       
       <guid>/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dijkstra</title>
+      <link>/tags/dijkstra/</link>
+      <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
+      
+      <guid>/tags/dijkstra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph</title>
+      <link>/tags/graph/</link>
+      <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
+      
+      <guid>/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>navigation</title>
+      <link>/tags/navigation/</link>
+      <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
+      
+      <guid>/tags/navigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wikipedia</title>
+      <link>/tags/wikipedia/</link>
+      <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
+      
+      <guid>/tags/wikipedia/</guid>
       <description></description>
     </item>
     
