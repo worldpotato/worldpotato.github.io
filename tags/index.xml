@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>development</title>
+      <title>Development</title>
       <link>/tags/development/</link>
       <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>dijkstra</title>
+      <title>Dijkstra</title>
       <link>/tags/dijkstra/</link>
       <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title>graph</title>
+      <title>Graph</title>
       <link>/tags/graph/</link>
       <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title>navigation</title>
+      <title>Navigation</title>
       <link>/tags/navigation/</link>
       <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
       
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>wikipedia</title>
+      <title>Wikipedia</title>
       <link>/tags/wikipedia/</link>
       <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
       
@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>django</title>
+      <title>Django</title>
       <link>/tags/django/</link>
       <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
       
@@ -66,7 +66,7 @@
     </item>
     
     <item>
-      <title>hello world</title>
+      <title>Hello World</title>
       <link>/tags/hello-world/</link>
       <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
       
@@ -75,7 +75,7 @@
     </item>
     
     <item>
-      <title>heroku</title>
+      <title>Heroku</title>
       <link>/tags/heroku/</link>
       <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
       
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>python</title>
+      <title>Python</title>
       <link>/tags/python/</link>
       <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
       
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title>arch</title>
+      <title>Arch</title>
       <link>/tags/arch/</link>
       <pubDate>Thu, 30 Jan 2020 22:05:49 +0100</pubDate>
       
@@ -111,7 +111,7 @@
     </item>
     
     <item>
-      <title>linux</title>
+      <title>Linux</title>
       <link>/tags/linux/</link>
       <pubDate>Thu, 30 Jan 2020 22:05:49 +0100</pubDate>
       
@@ -120,7 +120,7 @@
     </item>
     
     <item>
-      <title>open source</title>
+      <title>Open Source</title>
       <link>/tags/open-source/</link>
       <pubDate>Thu, 30 Jan 2020 22:05:49 +0100</pubDate>
       
@@ -129,7 +129,7 @@
     </item>
     
     <item>
-      <title>ubuntu</title>
+      <title>Ubuntu</title>
       <link>/tags/ubuntu/</link>
       <pubDate>Thu, 30 Jan 2020 22:05:49 +0100</pubDate>
       
@@ -138,7 +138,7 @@
     </item>
     
     <item>
-      <title>exams</title>
+      <title>Exams</title>
       <link>/tags/exams/</link>
       <pubDate>Thu, 30 Jan 2020 17:49:04 +0100</pubDate>
       
@@ -147,7 +147,7 @@
     </item>
     
     <item>
-      <title>studentlife</title>
+      <title>Studentlife</title>
       <link>/tags/studentlife/</link>
       <pubDate>Thu, 30 Jan 2020 17:49:04 +0100</pubDate>
       
@@ -156,11 +156,29 @@
     </item>
     
     <item>
-      <title>university</title>
+      <title>University</title>
       <link>/tags/university/</link>
       <pubDate>Thu, 30 Jan 2020 17:49:04 +0100</pubDate>
       
       <guid>/tags/university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encryption</title>
+      <link>/tags/encryption/</link>
+      <pubDate>Fri, 17 Jan 2020 14:31:50 +0100</pubDate>
+      
+      <guid>/tags/encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPG</title>
+      <link>/tags/gpg/</link>
+      <pubDate>Fri, 17 Jan 2020 14:31:50 +0100</pubDate>
+      
+      <guid>/tags/gpg/</guid>
       <description></description>
     </item>
     

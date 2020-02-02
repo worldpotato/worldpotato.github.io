@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hello world on Worldpotato</title>
+    <title>Hello World on Worldpotato</title>
     <link>/tags/hello-world/</link>
-    <description>Recent content in hello world on Worldpotato</description>
+    <description>Recent content in Hello World on Worldpotato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Feb 2020 09:57:42 +0100</lastBuildDate>
