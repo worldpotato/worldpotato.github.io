@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>university on Worldpotato</title>
-    <link>/tags/university/</link>
-    <description>Recent content in university on Worldpotato</description>
+    <title>Nvidia TX2 on Worldpotato</title>
+    <link>/tags/nvidia-tx2/</link>
+    <description>Recent content in Nvidia TX2 on Worldpotato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Feb 2020 00:35:17 +0100</lastBuildDate>
     
-        <atom:link href="/tags/university/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/nvidia-tx2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/posts/university/lastexam/</guid>
       <description>Whooo! I just finished another semester. Which means I wrote my last exam for that semester. It was about machine learning - just the basics. Actually an interesting course with a crate professor. But as interesting the topic is as hard it is to prioritise to learn for the exam because one can dive so damn deep in each subtopic. And of course you can plan more time. But be honest, you can not learn for 16 hours per day.</description>
-    </item>
-    
-    <item>
-      <title>FirstTwoExams</title>
-      <link>/posts/university/firsttwoexams/</link>
-      <pubDate>Thu, 30 Jan 2020 17:49:04 +0100</pubDate>
-      
-      <guid>/posts/university/firsttwoexams/</guid>
-      <description>Well, I just finished my second exam for this semester. It was about computer networks. Actually a very interesting course. The professor is very good explains everything well and everything was fine. Even the practical part where we had to implement some server-client applications, take benchmarks, measurements and so on. Maybe the practical part was a little bit to much beside of the network implementation. But that&amp;rsquo;s just a minor thing.</description>
     </item>
     
   </channel>
