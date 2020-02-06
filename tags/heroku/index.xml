@@ -13,10 +13,10 @@
     
     <item>
       <title>First Heroku App</title>
-      <link>/development/firstherokuapp/</link>
+      <link>/posts/development/firstherokuapp/</link>
       <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
       
-      <guid>/development/firstherokuapp/</guid>
+      <guid>/posts/development/firstherokuapp/</guid>
       <description>Yesterday was a day full of procrastination. I should learned Machine Learning but instead I created a Heroku app. Actually it&amp;rsquo;s just a Hello World site, but I&amp;rsquo;s hones work.
 Since I want to learn python I use python as programming language and Django as framework. Mostly because Django is part of the &amp;ldquo;Heroku with python&amp;rdquo; tutorial. Actually the tutorial was no problem. The test page works great. But I don&amp;rsquo;t want to start my app from scratch and not with all the unknown things from the tutorial application and I want to host the source on Github</description>
     </item>

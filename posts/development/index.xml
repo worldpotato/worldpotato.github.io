@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Worldpotato</title>
+    <link>/posts/development/</link>
+    <description>Recent content in Development on Worldpotato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2020 00:13:33 +0100</lastBuildDate>
+    
+        <atom:link href="/posts/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wikipedia Dijkstra</title>
+      <link>/posts/development/wikipediadijkstra/</link>
+      <pubDate>Sun, 02 Feb 2020 13:55:49 +0100</pubDate>
+      
+      <guid>/posts/development/wikipediadijkstra/</guid>
+      <description>Do you know the game where you try to go from one Wikipedia page to another with less clicks as possible? If not, pick a stranger person in the subway and play it together or against each other. It&amp;rsquo;s a nice way to make new friends (or enemies).
+But at the end you ask yourself if your way was the best way possible. Even if you won the battle. The nice thing is you can see the internet as a graph where a site is a node and a link is edge.</description>
+    </item>
+    
+    <item>
+      <title>First Heroku App</title>
+      <link>/posts/development/firstherokuapp/</link>
+      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
+      
+      <guid>/posts/development/firstherokuapp/</guid>
+      <description>Yesterday was a day full of procrastination. I should learned Machine Learning but instead I created a Heroku app. Actually it&amp;rsquo;s just a Hello World site, but I&amp;rsquo;s hones work.
+Since I want to learn python I use python as programming language and Django as framework. Mostly because Django is part of the &amp;ldquo;Heroku with python&amp;rdquo; tutorial. Actually the tutorial was no problem. The test page works great. But I don&amp;rsquo;t want to start my app from scratch and not with all the unknown things from the tutorial application and I want to host the source on Github</description>
+    </item>
+    
+  </channel>
+</rss>

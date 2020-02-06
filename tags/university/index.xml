@@ -13,21 +13,11 @@
     
     <item>
       <title>FirstTwoExams</title>
-      <link>/university/firsttwoexams/</link>
+      <link>/posts/university/firsttwoexams/</link>
       <pubDate>Thu, 30 Jan 2020 17:49:04 +0100</pubDate>
       
-      <guid>/university/firsttwoexams/</guid>
+      <guid>/posts/university/firsttwoexams/</guid>
       <description>Well, I just finished my second exam for this semester. It was about computer networks. Actually a very interesting course. The professor is very good explains everything well and everything was fine. Even the practical part where we had to implement some server-client applications, take benchmarks, measurements and so on. Maybe the practical part was a little bit to much beside of the network implementation. But that&amp;rsquo;s just a minor thing.</description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>/university/first/</link>
-      <pubDate>Fri, 17 Jan 2020 11:30:20 +0100</pubDate>
-      
-      <guid>/university/first/</guid>
-      <description>That&amp;rsquo;s my first page here.
-That&amp;rsquo;s my category for all university related stuff. I&amp;rsquo;m not sure what I publish here, yet. But since the university is a big part of my life I feel like it should get own category.</description>
     </item>
     
   </channel>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.63.2" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>First Heroku App&nbsp;&ndash;&nbsp;Worldpotato</title><link rel="stylesheet" href="/css/core.min.4d346ee6757171eda56397f259d1c783c1d42055fb3268ea4307356cdc0210b458404d832f0841f20fc623ae197165b7.css" integrity="sha384-TTRu5nVxce2lY5fyWdHHg8HUIFX7MmjqQwc1bNwCELRYQE2DLwhB8g/GI64ZcWW3"><body>
+    <div class="base-body"><section id="header" class="site header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">Worldpotato</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="about/">About</a><a class="nav item" href="/posts/university">University</a><a class="nav item" href="/posts/linux">Linux</a><a class="nav item" href="/posts/development">Development</a></nav></div></span></div></section><div id="content"><section class="article header">
+    <h1 class="article title">First Heroku App</h1><p class="article date">2020-02-01</p></section><article class="article markdown-body"><p>Yesterday was a day full of procrastination.
+I should learned Machine Learning but instead I created a Heroku app.
+Actually it&rsquo;s just a Hello World site, but I&rsquo;s hones work.</p>
+<p>Since I want to learn python I use python as programming language and Django as framework.
+Mostly because Django is part of the &ldquo;Heroku with python&rdquo; tutorial.
+Actually the tutorial was no problem.
+The test page works great.
+But I don&rsquo;t want to start my app from scratch and not with all the unknown things from the tutorial application and I want to host the source on <a href="https://github.com/worldpotato/shiftpotato"target="_blank">Github</a></p>
+<p>So after creating the Github repository, the development and deploy branch I created my first Django site.
+Committed the new files and just before I pushed it I recognised a &ldquo;SECURE_KEY&rdquo; in the settings file.
+I felt like &ldquo;I should not push that in a public repository&rdquo;.
+So I used an environment variable to set it.
+Append the changes to the former commit and it&rsquo;s done.</p>
+<p>Nope. You also need to create a app.
+But that&rsquo;s also covered by the Django tutorial.
+Committing, pushing and merging the feature branch, and finally merging it to the protected deploy branch is done by some commands and clicks.
+It&rsquo;s time to configure the Heroku app.</p>
+<p>I created an app in the web interface, added a buildpack and connected Github to the app.
+So everything should work fine, right?
+Nope!
+Sure, I forgot to set the environment variable at Heroku.
+A quick <a href="duck.com">duckduckgo</a> search brought me the correct command to add it.
+So now!
+<code>App not compatible with buildpack</code> Dough!
+OK, I forgot something, but what?
+Again a <a href="duck.com">duckduckgo</a> search helped.
+There must be a <code>Procfile</code> and <code>requirements.txt</code> file.
+So creating them, committing, merging and wait for the deploy just take some minutes.</p>
+<p>And look! My first Heroku app runs! You can see it under <a href="shiftpotato.herokuapp.com">shiftpotato.herokuapp.com</a>.</p>
+<p>Like you may think. I want to build a open source shift planer. Mostly for the treetop adventure park where I work from time to time.</p>
+<p>I&rsquo;ll work on it in the next weeks. Maybe we can actually use it.</p>
+</article><section class="article labels"><a class="tag" href=/tags/development/>Development</a><a class="tag" href=/tags/heroku/>Heroku</a><a class="tag" href=/tags/django/>Django</a><a class="tag" href=/tags/python/>Python</a><a class="tag" href=/tags/hello-world/>Hello World</a></section><section class="article navigation"><p><a class="link" href="/posts/development/wikipediadijkstra/"><span class="li">&larr;</span>Wikipedia Dijkstra</a></p></section></div><section id="footer" class="footer"><div class="footer-wrap">
+    <p class="copyright">Worldpotato</p>
+    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p>
+</div></section></div>
+</body>
+
+</html>
