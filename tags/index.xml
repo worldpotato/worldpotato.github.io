@@ -6,10 +6,29 @@
     <description>Recent content in Tags on Worldpotato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Feb 2020 00:35:17 +0100</lastBuildDate>
+    <copyright>CC-BY-SA Worldpotato.</copyright>
+    <lastBuildDate>Thu, 13 Feb 2020 23:16:06 +0100</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exams</title>
+      <link>/tags/exams/</link>
+      <pubDate>Thu, 13 Feb 2020 23:16:06 +0100</pubDate>
+      
+      <guid>/tags/exams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>University</title>
+      <link>/tags/university/</link>
+      <pubDate>Thu, 13 Feb 2020 23:16:06 +0100</pubDate>
+      
+      <guid>/tags/university/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bachelor Thesis</title>
@@ -44,15 +63,6 @@
       <pubDate>Fri, 07 Feb 2020 00:35:17 +0100</pubDate>
       
       <guid>/tags/student-life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>university</title>
-      <link>/tags/university/</link>
-      <pubDate>Fri, 07 Feb 2020 00:35:17 +0100</pubDate>
-      
-      <guid>/tags/university/</guid>
       <description></description>
     </item>
     
@@ -179,15 +189,6 @@
       <pubDate>Thu, 30 Jan 2020 22:05:49 +0100</pubDate>
       
       <guid>/tags/ubuntu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exams</title>
-      <link>/tags/exams/</link>
-      <pubDate>Thu, 30 Jan 2020 17:49:04 +0100</pubDate>
-      
-      <guid>/tags/exams/</guid>
       <description></description>
     </item>
     
