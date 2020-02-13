@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
-    <lastBuildDate>Thu, 30 Jan 2020 22:05:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 23:34:40 +0100</lastBuildDate>
     
         <atom:link href="/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ThePowersupplieIssue</title>
+      <link>/posts/university/thepowersupplieissue/</link>
+      <pubDate>Thu, 13 Feb 2020 23:34:40 +0100</pubDate>
+      
+      <guid>/posts/university/thepowersupplieissue/</guid>
+      <description>There is one story I need to tell you. At a university project my team and I worked with a Nvidia TX2 board. Our mission was to flash Ubuntu 18.04 on the TX2 board, install ROS Kinetic and control an oldish Turtlebot2. The problem with this setup is that ROS Kinetic does not support the Turtlebot2 anymore.
+But sometimes you have luck and someone created a github repository with everything you need.</description>
+    </item>
     
     <item>
       <title>How I came to Linux</title>
