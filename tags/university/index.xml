@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>university on Worldpotato</title>
+    <title>University on Worldpotato</title>
     <link>/tags/university/</link>
-    <description>Recent content in university on Worldpotato</description>
+    <description>Recent content in University on Worldpotato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
-    <lastBuildDate>Thu, 13 Feb 2020 23:16:06 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 09:31:29 +0100</lastBuildDate>
     
         <atom:link href="/tags/university/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I started my bachelor thesis</title>
+      <link>/posts/university/bachelorthesis/</link>
+      <pubDate>Thu, 20 Feb 2020 09:31:29 +0100</pubDate>
+      
+      <guid>/posts/university/bachelorthesis/</guid>
+      <description>I just got my grades but the semester is not over. Yesterday I started my bachelor thesis. Well, in fact I talked with my professor about the topic, the process of the whole bachelor thesis and he gave me some materials. I also organized the access to the labors.
+The bachelor thesis will be about capturing data from an thermal camera and a 3D sensor, visualize them and safe them in a format which can be played without the sensors.</description>
+    </item>
     
     <item>
       <title>Results</title>

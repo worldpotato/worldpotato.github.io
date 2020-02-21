@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
-    <lastBuildDate>Thu, 13 Feb 2020 23:34:40 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 09:31:29 +0100</lastBuildDate>
     
         <atom:link href="/tags/student-life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I started my bachelor thesis</title>
+      <link>/posts/university/bachelorthesis/</link>
+      <pubDate>Thu, 20 Feb 2020 09:31:29 +0100</pubDate>
+      
+      <guid>/posts/university/bachelorthesis/</guid>
+      <description>I just got my grades but the semester is not over. Yesterday I started my bachelor thesis. Well, in fact I talked with my professor about the topic, the process of the whole bachelor thesis and he gave me some materials. I also organized the access to the labors.
+The bachelor thesis will be about capturing data from an thermal camera and a 3D sensor, visualize them and safe them in a format which can be played without the sensors.</description>
+    </item>
     
     <item>
       <title>The powersupply issue</title>
