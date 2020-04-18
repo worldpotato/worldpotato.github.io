@@ -7,21 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 22:58:15 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 09:31:29 +0100</lastBuildDate>
     
         <atom:link href="/tags/bachelor-thesis/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Progress of bachelor thesis</title>
-      <link>/posts/university/progressofbachelorthesis/</link>
-      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
-      
-      <guid>/posts/university/progressofbachelorthesis/</guid>
-      <description>My last post is some time ago. Mostly because I had no motivation to write a new post and I don&amp;rsquo;t want that blog to be a &amp;ldquo;I have to do that&amp;rdquo;-thing. Actually I started to write a new post but never finished it and now it is really outdated so let me start again.
-Let me start with the thermal camera. It&amp;rsquo;s an Optris PI400 and the ROS node is on GitHub and the driver is easy to download and install.</description>
-      
-    </item>
     
     <item>
       <title>I started my bachelor thesis</title>
@@ -41,6 +30,17 @@ The bachelor thesis will be about capturing data from an thermal camera and a 3D
       
       <guid>/posts/university/lastexam/</guid>
       <description>Whooo! I just finished another semester. Which means I wrote my last exam for that semester. It was about machine learning - just the basics. Actually an interesting course with a crate professor. But as interesting the topic is as hard it is to prioritise to learn for the exam because one can dive so damn deep in each subtopic. And of course you can plan more time. But be honest, you can not learn for 16 hours per day.</description>
+      
+    </item>
+    
+    <item>
+      <title>Progress of my bachelor thesis</title>
+      <link>/posts/university/progressofbachelorthesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/university/progressofbachelorthesis/</guid>
+      <description>My last post is some time ago. Mostly because I had no motivation to write a new post and I don&amp;rsquo;t want that blog to be a &amp;ldquo;I have to do that&amp;rdquo;-thing. Actually I started to write a new post but never finished it and now it is really outdated so let me start again.
+Let me start with the thermal camera. It&amp;rsquo;s an Optris PI400 and the ROS node is on GitHub and the driver is easy to download and install.</description>
       
     </item>
     

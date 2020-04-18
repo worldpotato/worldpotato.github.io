@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 22:58:15 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 09:31:29 +0100</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Bachelor Thesis</title>
       <link>/tags/bachelor-thesis/</link>
-      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
+      <pubDate>Thu, 20 Feb 2020 09:31:29 +0100</pubDate>
       
       <guid>/tags/bachelor-thesis/</guid>
       <description></description>
@@ -23,51 +23,11 @@
     </item>
     
     <item>
-      <title>CUDA</title>
-      <link>/tags/cuda/</link>
-      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
-      
-      <guid>/tags/cuda/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Matlab</title>
-      <link>/tags/matlab/</link>
-      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
-      
-      <guid>/tags/matlab/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
-      
-      <guid>/tags/python/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>ROS</title>
       <link>/tags/ros/</link>
-      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
+      <pubDate>Thu, 20 Feb 2020 09:31:29 +0100</pubDate>
       
       <guid>/tags/ros/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>University</title>
-      <link>/tags/university/</link>
-      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
-      
-      <guid>/tags/university/</guid>
       <description></description>
       
     </item>
@@ -78,6 +38,16 @@
       <pubDate>Thu, 20 Feb 2020 09:31:29 +0100</pubDate>
       
       <guid>/tags/student-life/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>University</title>
+      <link>/tags/university/</link>
+      <pubDate>Thu, 20 Feb 2020 09:31:29 +0100</pubDate>
+      
+      <guid>/tags/university/</guid>
       <description></description>
       
     </item>
@@ -203,6 +173,16 @@
     </item>
     
     <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Arch</title>
       <link>/tags/arch/</link>
       <pubDate>Thu, 30 Jan 2020 22:05:49 +0100</pubDate>
@@ -258,6 +238,26 @@
       <pubDate>Fri, 17 Jan 2020 14:31:50 +0100</pubDate>
       
       <guid>/tags/gpg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CUDA</title>
+      <link>/tags/cuda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cuda/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matlab</title>
+      <link>/tags/matlab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/matlab/</guid>
       <description></description>
       
     </item>
