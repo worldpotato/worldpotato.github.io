@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Matlab on Worldpotato</title>
+    <link>/tags/matlab/</link>
+    <description>Recent content in Matlab on Worldpotato</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC-BY-SA Worldpotato.</copyright>
+    <lastBuildDate>Wed, 15 Apr 2020 22:58:15 +0200</lastBuildDate>
+    
+        <atom:link href="/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Progress of bachelor thesis</title>
+      <link>/posts/university/progressofbachelorthesis/</link>
+      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
+      
+      <guid>/posts/university/progressofbachelorthesis/</guid>
+      <description>My last post is some time ago. Mostly because I had no motivation to write a new post and I don&amp;rsquo;t want that blog to be a &amp;ldquo;I have to do that&amp;rdquo;-thing. Actually I started to write a new post but never finished it and now it is really outdated so let me start again.
+Let me start with the thermal camera. It&amp;rsquo;s an Optris PI400 and the ROS node is on GitHub and the driver is easy to download and install.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

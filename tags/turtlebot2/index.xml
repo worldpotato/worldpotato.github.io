@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Turtlebot2 on Worldpotato</title>
     <link>/tags/turtlebot2/</link>
@@ -20,6 +20,7 @@
       <guid>/posts/university/thepowersupplieissue/</guid>
       <description>There is one story I need to tell you. At a university project my team and I worked with a Nvidia TX2 board. Our mission was to flash Ubuntu 18.04 on the TX2 board, install ROS Kinetic and control an oldish Turtlebot2. The problem with this setup is that ROS Kinetic does not support the Turtlebot2 anymore.
 But sometimes you have luck and someone created a github repository with everything you need.</description>
+      
     </item>
     
   </channel>

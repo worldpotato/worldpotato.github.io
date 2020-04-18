@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Arch on Worldpotato</title>
     <link>/tags/arch/</link>
@@ -20,6 +20,7 @@
       <guid>/posts/linux/history/</guid>
       <description>OK, lets start at my first experience with GNU/Linux.
 As you may know from my about page I did an apprenticeship. I started it right after school at a time where I was very interested in IT, Games and activism. In the age of 12 - 13 I discovered Punk music and the ideology behind it. And it turned out that the left ideology will influence me since then. Sometimes more, sometimes less.</description>
+      
     </item>
     
   </channel>

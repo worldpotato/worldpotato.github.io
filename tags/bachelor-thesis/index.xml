@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bachelor Thesis on Worldpotato</title>
     <link>/tags/bachelor-thesis/</link>
@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
-    <lastBuildDate>Thu, 20 Feb 2020 09:31:29 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 22:58:15 +0200</lastBuildDate>
     
         <atom:link href="/tags/bachelor-thesis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Progress of bachelor thesis</title>
+      <link>/posts/university/progressofbachelorthesis/</link>
+      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
+      
+      <guid>/posts/university/progressofbachelorthesis/</guid>
+      <description>My last post is some time ago. Mostly because I had no motivation to write a new post and I don&amp;rsquo;t want that blog to be a &amp;ldquo;I have to do that&amp;rdquo;-thing. Actually I started to write a new post but never finished it and now it is really outdated so let me start again.
+Let me start with the thermal camera. It&amp;rsquo;s an Optris PI400 and the ROS node is on GitHub and the driver is easy to download and install.</description>
+      
+    </item>
     
     <item>
       <title>I started my bachelor thesis</title>
@@ -20,6 +31,7 @@
       <guid>/posts/university/bachelorthesis/</guid>
       <description>I just got my grades but the semester is not over. Yesterday I started my bachelor thesis. Well, in fact I talked with my professor about the topic, the process of the whole bachelor thesis and he gave me some materials. I also organized the access to the labors.
 The bachelor thesis will be about capturing data from an thermal camera and a 3D sensor, visualize them and safe them in a format which can be played without the sensors.</description>
+      
     </item>
     
     <item>
@@ -29,6 +41,7 @@ The bachelor thesis will be about capturing data from an thermal camera and a 3D
       
       <guid>/posts/university/lastexam/</guid>
       <description>Whooo! I just finished another semester. Which means I wrote my last exam for that semester. It was about machine learning - just the basics. Actually an interesting course with a crate professor. But as interesting the topic is as hard it is to prioritise to learn for the exam because one can dive so damn deep in each subtopic. And of course you can plan more time. But be honest, you can not learn for 16 hours per day.</description>
+      
     </item>
     
   </channel>

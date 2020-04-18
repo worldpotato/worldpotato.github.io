@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dijkstra on Worldpotato</title>
     <link>/tags/dijkstra/</link>
@@ -20,6 +20,7 @@
       <guid>/posts/development/wikipediadijkstra/</guid>
       <description>Do you know the game where you try to go from one Wikipedia page to another with less clicks as possible? If not, pick a stranger person in the subway and play it together or against each other. It&amp;rsquo;s a nice way to make new friends (or enemies).
 But at the end you ask yourself if your way was the best way possible. Even if you won the battle. The nice thing is you can see the internet as a graph where a site is a node and a link is edge.</description>
+      
     </item>
     
   </channel>

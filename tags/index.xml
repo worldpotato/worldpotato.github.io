@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Worldpotato</title>
     <link>/tags/</link>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
-    <lastBuildDate>Thu, 20 Feb 2020 09:31:29 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 22:58:15 +0200</lastBuildDate>
     
         <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,19 +15,61 @@
     <item>
       <title>Bachelor Thesis</title>
       <link>/tags/bachelor-thesis/</link>
-      <pubDate>Thu, 20 Feb 2020 09:31:29 +0100</pubDate>
+      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
       
       <guid>/tags/bachelor-thesis/</guid>
       <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CUDA</title>
+      <link>/tags/cuda/</link>
+      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
+      
+      <guid>/tags/cuda/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matlab</title>
+      <link>/tags/matlab/</link>
+      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
+      
+      <guid>/tags/matlab/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+      
     </item>
     
     <item>
       <title>ROS</title>
       <link>/tags/ros/</link>
-      <pubDate>Thu, 20 Feb 2020 09:31:29 +0100</pubDate>
+      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
       
       <guid>/tags/ros/</guid>
       <description></description>
+      
+    </item>
+    
+    <item>
+      <title>University</title>
+      <link>/tags/university/</link>
+      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
+      
+      <guid>/tags/university/</guid>
+      <description></description>
+      
     </item>
     
     <item>
@@ -37,15 +79,7 @@
       
       <guid>/tags/student-life/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>university</title>
-      <link>/tags/university/</link>
-      <pubDate>Thu, 20 Feb 2020 09:31:29 +0100</pubDate>
       
-      <guid>/tags/university/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -55,6 +89,7 @@
       
       <guid>/tags/nvidia-tx2/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -64,6 +99,7 @@
       
       <guid>/tags/turtlebot2/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -73,6 +109,7 @@
       
       <guid>/tags/ubuntu/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -82,6 +119,7 @@
       
       <guid>/tags/exams/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -91,6 +129,7 @@
       
       <guid>/tags/development/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -100,6 +139,7 @@
       
       <guid>/tags/dijkstra/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -109,6 +149,7 @@
       
       <guid>/tags/graph/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -118,6 +159,7 @@
       
       <guid>/tags/navigation/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -127,6 +169,7 @@
       
       <guid>/tags/wikipedia/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -136,6 +179,7 @@
       
       <guid>/tags/django/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -145,6 +189,7 @@
       
       <guid>/tags/hello-world/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -154,15 +199,7 @@
       
       <guid>/tags/heroku/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Sat, 01 Feb 2020 09:57:42 +0100</pubDate>
       
-      <guid>/tags/python/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -172,6 +209,7 @@
       
       <guid>/tags/arch/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -181,6 +219,7 @@
       
       <guid>/tags/gnu/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -190,6 +229,7 @@
       
       <guid>/tags/linux/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -199,6 +239,7 @@
       
       <guid>/tags/open-source/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -208,6 +249,7 @@
       
       <guid>/tags/encryption/</guid>
       <description></description>
+      
     </item>
     
     <item>
@@ -217,6 +259,7 @@
       
       <guid>/tags/gpg/</guid>
       <description></description>
+      
     </item>
     
   </channel>

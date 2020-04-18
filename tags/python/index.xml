@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Python on Worldpotato</title>
     <link>/tags/python/</link>
@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 09:57:42 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 22:58:15 +0200</lastBuildDate>
     
         <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Progress of bachelor thesis</title>
+      <link>/posts/university/progressofbachelorthesis/</link>
+      <pubDate>Wed, 15 Apr 2020 22:58:15 +0200</pubDate>
+      
+      <guid>/posts/university/progressofbachelorthesis/</guid>
+      <description>My last post is some time ago. Mostly because I had no motivation to write a new post and I don&amp;rsquo;t want that blog to be a &amp;ldquo;I have to do that&amp;rdquo;-thing. Actually I started to write a new post but never finished it and now it is really outdated so let me start again.
+Let me start with the thermal camera. It&amp;rsquo;s an Optris PI400 and the ROS node is on GitHub and the driver is easy to download and install.</description>
+      
+    </item>
     
     <item>
       <title>First Heroku App</title>
@@ -20,6 +31,7 @@
       <guid>/posts/development/firstherokuapp/</guid>
       <description>Yesterday was a day full of procrastination. I should learned Machine Learning but instead I created a Heroku app. Actually it&amp;rsquo;s just a Hello World site, but I&amp;rsquo;s hones work.
 Since I want to learn python I use python as programming language and Django as framework. Mostly because Django is part of the &amp;ldquo;Heroku with python&amp;rdquo; tutorial. Actually the tutorial was no problem. The test page works great. But I don&amp;rsquo;t want to start my app from scratch and not with all the unknown things from the tutorial application and I want to host the source on Github</description>
+      
     </item>
     
   </channel>
