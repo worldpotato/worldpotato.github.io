@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>http://worldpotato.github.io/tags/matlab/</loc><lastmod>2020-04-18T17:09:02+02:00</lastmod></url><url>
+    <loc>http://worldpotato.github.io/posts/development/hatelovematlab/</loc><lastmod>2020-04-18T17:09:02+02:00</lastmod></url><url>
+    <loc>http://worldpotato.github.io/posts/</loc><lastmod>2020-04-18T17:09:02+02:00</lastmod></url><url>
+    <loc>http://worldpotato.github.io/tags/</loc><lastmod>2020-04-18T17:09:02+02:00</lastmod></url><url>
     <loc>http://worldpotato.github.io/tags/bachelor-thesis/</loc><lastmod>2020-02-20T09:31:29+01:00</lastmod></url><url>
     <loc>http://worldpotato.github.io/posts/university/bachelorthesis/</loc><lastmod>2020-02-20T09:31:29+01:00</lastmod></url><url>
-    <loc>http://worldpotato.github.io/posts/</loc><lastmod>2020-02-20T09:31:29+01:00</lastmod></url><url>
     <loc>http://worldpotato.github.io/tags/ros/</loc><lastmod>2020-02-20T09:31:29+01:00</lastmod></url><url>
     <loc>http://worldpotato.github.io/tags/student-life/</loc><lastmod>2020-02-20T09:31:29+01:00</lastmod></url><url>
-    <loc>http://worldpotato.github.io/tags/</loc><lastmod>2020-02-20T09:31:29+01:00</lastmod></url><url>
     <loc>http://worldpotato.github.io/tags/university/</loc><lastmod>2020-02-20T09:31:29+01:00</lastmod></url><url>
     <loc>http://worldpotato.github.io/tags/nvidia-tx2/</loc><lastmod>2020-02-13T23:34:40+01:00</lastmod></url><url>
     <loc>http://worldpotato.github.io/posts/university/thepowersupplieissue/</loc><lastmod>2020-02-13T23:34:40+01:00</lastmod></url><url>
@@ -42,5 +44,4 @@
     <loc>http://worldpotato.github.io/contact/</loc><lastmod>2020-01-17T14:11:21+01:00</lastmod></url><url>
     <loc>http://worldpotato.github.io/categories/</loc></url><url>
     <loc>http://worldpotato.github.io/tags/cuda/</loc></url><url>
-    <loc>http://worldpotato.github.io/tags/matlab/</loc></url><url>
     <loc>http://worldpotato.github.io/posts/university/progressofbachelorthesis/</loc></url></urlset>

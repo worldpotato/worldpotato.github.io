@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Matlab on Worldpotato</title>
+    <title>MatLab on Worldpotato</title>
     <link>/tags/matlab/</link>
-    <description>Recent content in Matlab on Worldpotato</description>
+    <description>Recent content in MatLab on Worldpotato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
+    <lastBuildDate>Sat, 18 Apr 2020 17:09:02 +0200</lastBuildDate>
     
         <atom:link href="/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My hate/love to Matlab</title>
+      <link>/posts/development/hatelovematlab/</link>
+      <pubDate>Sat, 18 Apr 2020 17:09:02 +0200</pubDate>
+      
+      <guid>/posts/development/hatelovematlab/</guid>
+      <description>I don&amp;rsquo;t really know where to start. I work with MatLab in university for the last three years, mostly for implementing different algorithm. But the last days I was working on a little MatLab app. And that experience was not one of the nice ones. I thought I should share that.
+Let me tell, at some point I really hate MatLab and some seconds later I love MatLab again. And to be honest, overall I don&amp;rsquo;t really enjoy developing software with Matlab.</description>
+      
+    </item>
     
     <item>
       <title>Progress of my bachelor thesis</title>
