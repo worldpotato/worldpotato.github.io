@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.69.2" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>Using Vim for LaTeX together with zathura&nbsp;&ndash;&nbsp;Worldpotato</title><link rel="stylesheet" href="/css/core.min.60304332579fb0dc184f37cb1904a335f9c747478dc572cc56425ebf9ab3a0e53010e7a3cedf643e557eb99e29cf3762.css" integrity="sha384-YDBDMlefsNwYTzfLGQSjNfnHR0eNxXLMVkJev5qzoOUwEOejzt9kPlV&#43;uZ4pzzdi"><meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Using Vim for LaTeX together with zathura" /><body>
+    <div class="base-body"><section id="header" class="site header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/"><span class="site name">Worldpotato</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="/tags/">Tags</a><a class="nav item" href="/about">About</a><a class="nav item" href="/posts/university">University</a><a class="nav item" href="/posts/linux">Linux</a><a class="nav item" href="/posts/development">Development</a></nav></div></span></div><div class="site slogan"><span class="title">Me and my potato world</span></div></section><div id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">Using Vim for LaTeX together with zathura</h1><p class="article date">2020-05-01</p></section><article class="article markdown-body"><p>I used LaTeX for the last two semesters to write my scripts for different lessons at university.
+Mostly because it is based on plain text files and that makes it perfect for git.</p>
+<p>Most of the time I used <a href="https://www.texstudio.org"target="_blank">TexStudio</a>.
+It&rsquo;s a great TeX editor.
+But I like vim and thought that I should figure out how to get a nice workflow with vim.
+And of course I did some <a href="duckduckgo.com">ducking</a> and found the <a href="https://github.com/vim-latex/vim-latex"target="_blank">latex-suite</a>.
+For some reasons it doesn&rsquo;t worked well.
+There were some problems with compiling, which I could not fix.
+Because I tried it while I heard a more or less boring lesson, I decided to stay with TexStudio.</p>
+<p>That was around six month ago.
+Yesterday evening I decided to give it a shot again.
+But that time I decided to use an other plugin for TeX.
+I tried <a href="https://github.com/LaTeX-Box-Team/LaTeX-Box"target="_blank">LaTeX-Box</a> and liked how it works with <a href="https://github.com/ycm-core/YouCompleteMe"target="_blank">YouCompleteMe</a> and <a href="https://github.com/vim-syntastic/syntastic"target="_blank">Syntastic</a>.
+I was happy for the day and worked a little bit on my bachelor thesis.
+After some adaptions the autocompletion worked well, and the syntax highlighting looks good and I get hint if my syntax is not correct.</p>
+<p>Today I thought that I miss the forward and backward search from TexStudio.
+So I took a quick look what I can find on <a href="duckduckgo.com">duckduckgo.com</a> how to get the forward and backward search.
+And that&rsquo;s how I found <a href="https://github.com/lervag/vimtex"target="_blank">vimtex</a> which is based on LaTeX-Box.
+To be honest, it doesn&rsquo;t worked out of the box.
+I had to do some small adaptions to my <code>vimrc</code>.</p>
+<p>Let&rsquo;s talk about that.</p>
+<h3 id="tex-flavor">tex flavor</h3>
+<p>The first problem was that vim handles files with <code>*.tex</code> ending as plaintext files.
+But to have a nice workflow vim should handle these files as what they are.</p>
+<p>Adding this line helps here.</p>
+<pre><code>let g:tex_flavor='latex'
+</code></pre><h3 id="fixing-forwardbackward-search">Fixing forward/backward search</h3>
+<p>I set zathura as my standard pdf viewer so it opens with the <code>&lt;leader&gt;lv</code> combination from vimtex.
+But it doesn&rsquo;t work with the backward search.
+And that had two reasons.</p>
+<ol>
+<li>vimtex used xdg-open to open the pdf viewer</li>
+<li>vim&rsquo;s servername string is empty</li>
+</ol>
+<p>I found these two thing out while reading through <a href="https://gitbhub.com/lervag/vimtex/issues/206"target="_blank">this</a> GitHub issue.</p>
+<p>To each of these problems is a simple solution.</p>
+<ol>
+<li>Set zathura explicit as your view method by adding this line to your vimrc</li>
+</ol>
+<pre><code>let g:vimtex_view_method = 'zathura'
+</code></pre><ol start="2">
+<li>Set the servername when you start vim. Or better, set an alias.</li>
+</ol>
+<pre><code>vim --servername vim
+</code></pre><p>For me it works quite good now.
+And I&rsquo;m really stroked about how good I can use one editor to edit different filetypes.</p>
+</article><section class="article labels"><a class="tag" href=/tags/vim/>vim</a><a class="tag" href=/tags/latex/>LaTeX</a><a class="tag" href=/tags/zathura/>zathura</a><a class="tag" href=/tags/bachelor-thesis/>Bachelor Thesis</a></section></div><section class="article navigation"><p><a class="link" href="/posts/linux/history/"><span class="li">&rarr;</span>How I came to Linux</a></p></section></div><section id="footer" class="footer"><div class="footer-wrap">
+    <p class="copyright">CC-BY-SA Worldpotato.</p>
+    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p>
+</div></section></div>
+</body>
+
+</html>

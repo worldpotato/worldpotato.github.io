@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY-SA Worldpotato.</copyright>
-    <lastBuildDate>Thu, 20 Feb 2020 09:31:29 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 22:55:07 +0200</lastBuildDate>
     
         <atom:link href="/tags/bachelor-thesis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using Vim for LaTeX together with zathura</title>
+      <link>/posts/linux/latex_and_vim/</link>
+      <pubDate>Fri, 01 May 2020 22:55:07 +0200</pubDate>
+      
+      <guid>/posts/linux/latex_and_vim/</guid>
+      <description>I used LaTeX for the last two semesters to write my scripts for different lessons at university. Mostly because it is based on plain text files and that makes it perfect for git.
+Most of the time I used TexStudio. It&amp;rsquo;s a great TeX editor. But I like vim and thought that I should figure out how to get a nice workflow with vim. And of course I did some ducking and found the latex-suite.</description>
+      
+    </item>
     
     <item>
       <title>I started my bachelor thesis</title>
