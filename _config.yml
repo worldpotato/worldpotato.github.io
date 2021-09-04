@@ -25,11 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: worldpotato
-github_username:  worldpotato
+github_username: worldpotato
 twitch_username: w0rldpotato
 
 # Build settings
 remote_theme: b2a3e8/jekyll-theme-console
+# theme: jekyll-shell-theme
 # theme: minima
 plugins:
   - jekyll-feed
@@ -58,7 +59,7 @@ header_pages:
   - index.md
 
 style: dark # dark (default), light or hacker
-listen_for_clients_preferred_style: true # false (default) or true
+listen_for_clients_preferred_style: false # false (default) or true
 
 footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
 
