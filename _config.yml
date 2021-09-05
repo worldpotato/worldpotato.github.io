@@ -6,6 +6,7 @@ url: "https://worldpotato.github.io"
 
 header_pages:
   - about.md
+  - gpgkey.md
 
 style: dark
 
