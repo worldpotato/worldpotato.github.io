@@ -5,9 +5,7 @@ baseurl: ""
 url: "https://worldpotato.github.io"
 
 header_pages:
-  - index.md
   - about.md
-  - contact.md
 
 style: dark
 
