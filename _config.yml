@@ -11,7 +11,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow me on <a href="https://twitch.com/w0rldpotato">twitch</a>'
+footer: 'follow me on <a href="https://twitch.com/w0rldpotato">twitch</a> <a href="https://github.com/b2a3e8/jekyll-theme-console">Theme</a>'
 
 # Build settings
 markdown: kramdown
