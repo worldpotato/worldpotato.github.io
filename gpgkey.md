@@ -1,5 +1,4 @@
 ---
-layout: blank-page
 title: /gpgkey
 permalink: /gpgkey/
 ---
